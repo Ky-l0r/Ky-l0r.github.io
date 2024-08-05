@@ -3,5 +3,24 @@
   
   
   
+  <entry>
+    <title>怎么用HEXO+Github创建自己的第一个博客</title>
+    <link href="/2024/08/05/%E6%80%8E%E4%B9%88%E7%94%A8HEXO-Github%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2024/08/05/%E6%80%8E%E4%B9%88%E7%94%A8HEXO-Github%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一、准备环境"><a href="#一、准备环境" class="headerlink" title="一、准备环境"></a><strong>一、准备环境</strong></h1><h2 id="1、node环境"><a href="#1、node环境" class="headerlink" title="1、node环境"></a>1、node环境</h2><p>安装nodejs </p><p><a href="https://nodejs.cn/download/">下载地址</a></p><h2 id="2、git环境"><a href="#2、git环境" class="headerlink" title="2、git环境"></a>2、git环境</h2><p>安装git</p><p><a href="https://git-scm.com/downloads">下载地址</a></p><!--安装一直next就行     可以更改安装路径--><!--通过在cmd中输入命令：node -v(查看nodejs版本） git --version(查看git版本)--><img src="D:\重要的事情说三遍\图片\屏幕截图 2024-08-05 163024.png" alt="屏幕截图 2024-08-05 163024" style="zoom: 80%;" /><p>出现以上即为成功</p><h1 id="二、注册Github账号并新建仓库"><a href="#二、注册Github账号并新建仓库" class="headerlink" title="二、注册Github账号并新建仓库"></a>二、注册Github账号并新建仓库</h1>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
