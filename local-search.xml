@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>[OBS]OBS的安装与配置</title>
+    <link href="/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    <url>/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1、下载OBS"><a href="#1、下载OBS" class="headerlink" title="1、下载OBS"></a>1、下载OBS</h1><h2 id="方式一（官网下载）："><a href="#方式一（官网下载）：" class="headerlink" title="方式一（官网下载）："></a>方式一（官网下载）：</h2><p>访问OBS官网 <a href="https://obsproject.com/">OBS Studio</a></p><p>根据自己的系统配置下载对应版本</p><h2 id="方式二（steam下载）："><a href="#方式二（steam下载）：" class="headerlink" title="方式二（steam下载）："></a>方式二（steam下载）：</h2><p>打开steam</p><p>搜索OBS Studio或点击此链接 <a href="https://store.steampowered.com/app/1905180/OBS_Studio/">OBS Studio</a></p><p>添加到库，下载安装</p><h1 id="2、安装OBS（steam下载请略过"><a href="#2、安装OBS（steam下载请略过" class="headerlink" title="2、安装OBS（steam下载请略过"></a>2、安装OBS（steam下载请略过</h1><p>打开下载好的安装包</p><p>一直点next即可（可更改安装位置）</p><h1 id="3、配置OBS"><a href="#3、配置OBS" class="headerlink" title="3、配置OBS"></a>3、配置OBS</h1><h2 id="1、系统自动配置"><a href="#1、系统自动配置" class="headerlink" title="1、系统自动配置"></a>1、系统自动配置</h2><p>第一次启动OBS，系统会根据你的电脑配置和需求自动配置，根据自己的需求确认即可</p><h2 id="2、手动配置"><a href="#2、手动配置" class="headerlink" title="2、手动配置"></a>2、手动配置</h2><p>在页面左下角来源一栏中点击+号添加显示器采集</p><p><img src="/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/2.png" alt="来源"></p><p>预览中便会显示自己的桌面<img src="/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/3.png" alt="预览"></p><p>至此，点击右侧的开始录制便能录制视频啦！！！</p><p>视频默认保存在系统自带的视频文件夹中（c:\user\xxx\video)</p><p>更改默认保存目录请看进阶配置</p><h1 id="4、进阶配置"><a href="#4、进阶配置" class="headerlink" title="4、进阶配置"></a>4、进阶配置</h1><p>打开OBS设置</p><h2 id="1、输出配置"><a href="#1、输出配置" class="headerlink" title="1、输出配置"></a>1、输出配置</h2><p>切换到输出栏<img src="/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/4.png" alt="输出"></p><p>将输出模式切换为高级</p><p>点击录像</p><p><img src="/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/5.png" alt="录像"></p><p>此处可更改录像路径、格式</p><p>强烈建议将视频编码器切换为显卡编码（即Nvidia H.264&#x2F;Amd H.264)</p><p>在编码器设置一栏中</p><p><img src="/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/6.png" alt="编码器"></p><p>将速率控制切换为VBR（非必要，个人认为VBR效果最好</p><p>然后根据自己要录的视频更换码率（可参考下表</p><p><img src="/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/7.png" alt="码率表"></p><!--Mb/s转换为Kbps 就把前者*1000即可 如5Mb/s=5000Kbps--><h2 id="2、快捷键配置"><a href="#2、快捷键配置" class="headerlink" title="2、快捷键配置"></a>2、快捷键配置</h2><p>切换到快捷键栏</p><p><img src="/2024/08/06/OBS-OBS%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/8.png" alt="快捷键"></p><p>根据自己的喜好设置快捷键</p><h2 id="3、保存"><a href="#3、保存" class="headerlink" title="3、保存"></a>3、保存</h2><p>点击右下角应用即可</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>OBS</tag>
+      
+      <tag>工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>[Unity]制作开始菜单</title>
     <link href="/2024/08/05/Unity-%E5%88%B6%E4%BD%9C%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95/"/>
     <url>/2024/08/05/Unity-%E5%88%B6%E4%BD%9C%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95/</url>
